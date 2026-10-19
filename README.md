@@ -66,7 +66,7 @@
 ### Hardware & IoT
 
 <p>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=raspberrypi" />
 </p>
 
 ---
