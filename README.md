@@ -30,15 +30,16 @@ AI-powered learning platform with document-based learning, RAG, quizzes, flashca
 
 `React` `FastAPI` `MySQL` `AI / RAG`
 
-### OMNI
+### OMNI (Laura)
 Automated system for retrieving, processing, and distributing university notices using Raspberry Pi and cloud infrastructure.
 
 `Python` `Raspberry Pi` `Linux` `GCP` `Automation`
 
-### Infocuor Photography Society Website
-Contributed to the frontend development of the Infocuor Photography Society website, including a redesigned responsive Team page.
+### Lily
 
-`React` `Tailwind CSS` `GitHub`
+WhatsApp-based academic assistant designed to help manage lecture schedules, reminders, cancellations, rescheduling, Zoom links, and group communication.
+
+`Node.js` `SQLite GCP` `Cloudflare Automation`
 
 ---
 
