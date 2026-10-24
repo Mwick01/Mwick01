@@ -1,61 +1,37 @@
 # Hi, I'm Menuja Wickramathilaka 👋
 
-Computer Science undergraduate interested in **software engineering, backend systems, AI, cloud infrastructure, and cybersecurity**.
+Computer Science undergraduate focused on **software engineering, backend systems, AI, cloud infrastructure, and cybersecurity**.
 
-I enjoy building practical systems, experimenting with new technologies, and contributing to collaborative software projects.
+I build practical software systems and enjoy working across application development, automation, infrastructure, and software engineering research.
 
----
-
-## Tech Stack
+## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,spring,nodejs,mysql,linux,docker,nginx,gcp,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,rust,java,js,ts,react,fastapi,nodejs,mysql,linux,docker,gcp,git" />
 </p>
 
----
+## Selected Work
 
-## GitHub Stats
+### 📚 PaperLink
+Local-first desktop MCP knowledge library for PDFs with hybrid keyword and semantic retrieval.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mwick01&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwick01&layout=compact&hide_border=true&theme=transparent" />
-</p>
+`Rust` · `MCP` · `Information Retrieval`
 
----
+### 📡 OMNI
+Raspberry Pi and cloud-based pipeline for detecting university notices, securely transferring them for processing, extracting useful information with AI, and distributing updates.
 
-## Selected Projects
+`Python` · `Raspberry Pi` · `Linux` · `GCP` · `AI`
 
-### Thaksalawa
-AI-powered learning platform with document-based learning, RAG, quizzes, flashcards, analytics, and other intelligent learning tools.
+### 🤖 Lily
+WhatsApp-based academic assistant for managing lecture schedules, reminders, cancellations, rescheduling, Zoom links, and group communication.
 
-`React` `FastAPI` `MySQL` `AI / RAG`
+`Node.js` · `SQLite` · `GCP` · `Cloudflare`
 
-### OMNI (Laura)
-Automated system for retrieving, processing, and distributing university notices using Raspberry Pi and cloud infrastructure.
+## Interests
 
-`Python` `Raspberry Pi` `Linux` `GCP` `Automation`
-
-### Lily
-
-WhatsApp-based academic assistant designed to help manage lecture schedules, reminders, cancellations, rescheduling, Zoom links, and group communication.
-
-`Node.js` `SQLite GCP` `Cloudflare Automation`
-
----
-
-## Currently Exploring
-
-`Cloud & DevOps` · `Cybersecurity` · `System Engineering` · `Software Testing` · `AI`
-
----
+Backend Engineering · Cloud & DevOps · AI Systems · Cybersecurity · Software Testing
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mwick01&style=flat&label=Profile+Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Menuja%20Wickramathilaka-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/menuja-wickramathilaka-73810a21a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](menuja.sansika02@gmail.com)
